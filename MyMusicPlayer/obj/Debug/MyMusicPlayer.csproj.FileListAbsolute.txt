@@ -1,0 +1,15 @@
+C:\Users\KIIT\source\repos\MyMusicPlayer\MyMusicPlayer\bin\Debug\MyMusicPlayer.exe.config
+C:\Users\KIIT\source\repos\MyMusicPlayer\MyMusicPlayer\bin\Debug\MyMusicPlayer.exe
+C:\Users\KIIT\source\repos\MyMusicPlayer\MyMusicPlayer\bin\Debug\MyMusicPlayer.pdb
+C:\Users\KIIT\source\repos\MyMusicPlayer\MyMusicPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\KIIT\source\repos\MyMusicPlayer\MyMusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\KIIT\source\repos\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.csprojAssemblyReference.cache
+C:\Users\KIIT\source\repos\MyMusicPlayer\MyMusicPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\KIIT\source\repos\MyMusicPlayer\MyMusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\KIIT\source\repos\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.csproj.ResolveComReference.cache
+C:\Users\KIIT\source\repos\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.Form1.resources
+C:\Users\KIIT\source\repos\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.Properties.Resources.resources
+C:\Users\KIIT\source\repos\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.csproj.GenerateResource.cache
+C:\Users\KIIT\source\repos\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\source\repos\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.exe
+C:\Users\KIIT\source\repos\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.pdb
